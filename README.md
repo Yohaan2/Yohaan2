@@ -5,7 +5,7 @@
 <p>I'm a full stack developer on my way to specializing in backend. Currently my main interest is to continue learning new technologies, to continue learning good practices, and to continue growing as a professional in the area.
 I really like the idea of new challenges and looking for solutions to problems, one of my greatest qualities being the power of adaptability and understanding.</p>
 
-- 🌱 I’m currently learning **a bit more about Typescript, nestJS and mongoDB**
+- 🌱 I’m currently learning **a bit more about Python with Flask**
 
 - 📫 How to reach me **garciayohan57@gmail.com**
 
